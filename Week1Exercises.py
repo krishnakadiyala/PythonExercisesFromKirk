@@ -1,4 +1,7 @@
-""" Exercise1:
+"""
+Krishna's solutions to exercises
+
+Exercise1:
 ip_addr1 = "118.12.6.34"
 ip_addr2 = "192.123.26.1"
 ip_addr3 = "128.12.98.45"
